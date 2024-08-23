@@ -1,0 +1,149 @@
+/*para comentarios*/
+body {
+    background: rgb(223,246,255);
+    color: rgb(253, 244, 249);
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+.cont {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}  
+
+.cont img {
+    width: 350px;
+    height: 120px;
+}  
+
+.img1 {
+    width: 325px;
+    height: 300px;
+     border-radius: 25px;
+margin-top: 30px;
+margin-right: 35px;
+margin-bottom: 30px;
+}
+
+.h21 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    text-size-adjust: 80px;
+}
+
+.inf1 {
+  color: rgb(3, 88, 145);
+}  
+
+.caja {
+    border-style: solid;
+    border-radius: 20px;
+    border-color: rgb(214, 234, 238);
+    background-color: rgb(214, 234, 238);
+    width: 420px;
+    height: 400px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }  
+  
+.h22 {
+    color: rgb(96, 166, 212);
+  }  
+
+  .h23, .h24 {
+    color: black;
+    font-size: larger;
+  } 
+
+  .img2 {
+    float: right;
+    width: 500px;
+    height: 350px;
+    margin-left: 50px;
+    margin-top: 75px;
+    border-radius: 20px;
+    align-items: last baseline
+  } 
+  
+  .caj {
+    display: flex;  
+  } 
+
+  .caja1 {
+    border-style: solid;
+    border-radius: 20px;
+    border-color: rgb(214, 234, 238);
+    background-color: rgb(214, 234, 238);
+    width: 420px;
+    height: 460px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 70px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  } 
+
+  .caj1 {
+    display: flex;  
+  } 
+
+  .vid {
+    float: left; 
+    margin-left: 30px;
+    margin-top: 170px;
+  } 
+
+  .h26{
+    color: black;
+    font-size: larger;
+    text-align: right;
+}
+
+.h25 {
+    color: rgb(96, 166, 212);
+  }  
+
+  .caj2 {
+    display: flex; 
+    border-style: solid;
+    border-radius: 20px;
+    border-color: rgb(214, 234, 238);
+    background-color: rgb(214, 234, 238);
+    width: 350px;
+    height: 200px;
+    margin-left: 50px;
+    margin: 50px;
+    margin-top: 70px;
+    padding-left: 80px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    text-align: center;
+  } 
+
+  .img3 {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+  } 
+
+  .h27 {
+    color: rgb(184, 23, 103);
+    text-align: center;
+    margin-top: 60px;
+    font-size: large;
+    margin-left: 1px;
+  }  
+
+}
